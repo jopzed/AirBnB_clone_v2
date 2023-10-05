@@ -1,0 +1,4 @@
+create state name= "California
+create state name= "Arizona"
+create city_id= "0001" uesr_id= "0001" name="_my_little_house" number_rooms=4 number_bathroom=2 max_guest=10 price_by_night=300 latitude=37.7732 lonitudg=122.4321257
+all places
